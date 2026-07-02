@@ -1,4 +1,4 @@
-# Week 9 - React Hooks Assignment
+# Week 10 - Hooks in React Assignment
 
 Four components demonstrating `useState`, `useEffect`, and `useRef`.
 
